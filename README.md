@@ -92,7 +92,7 @@ An administrator manages gifts, user permissions, and controls the lottery proce
 ## 🛒 Shopping Basket
 
 <p align="center">
-  <img src="./docs/images/basket.png" width="800" alt="Shopping Basket">
+  <img src="./docs/images/Basket.png" width="800" alt="Shopping Basket">
 </p>
 
 ---
@@ -100,7 +100,7 @@ An administrator manages gifts, user permissions, and controls the lottery proce
 ## 🔐 Login
 
 <p align="center">
-  <img src="./docs/images/login.png" width="800" alt="Login Page">
+  <img src="./docs/images/Login.png" width="800" alt="Login Page">
 </p>
 
 ---
